@@ -98,6 +98,11 @@ main div {
 }
 
 #mliang16 {
+  font-size: large;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #006d77;
+  font-style: italic;
+  border: 1px solid black;
 }
 
 #qlu30 {
